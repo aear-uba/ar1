@@ -11,6 +11,8 @@ Aprendizaje por Refuerzo 1 - MIA - UBA
 - `datasets/` → Conjuntos de datos utilizados.
 - `images/` → Gráficos y esquemas para documentación.
 
+<span style="color: gray;">Este es un texto en gris 20%.</span>  
+
 ## 📜 Requisitos
 Para instalar las dependencias necesarias, ejecuta (si corresponde):
 ```bash
