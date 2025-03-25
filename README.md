@@ -1,5 +1,7 @@
 Aprendizaje por Refuerzo 1 - MIA - UBA
 
+![Logo](images/logo_fiuba.png)
+
 # Curso de Aprendizaje por Refuerzo 1 📘🤖
 ¡Bienvenido a este repositorio del curso de Aprendizaje por Refuerzo 1! Aquí encontrarás material teórico, notebooks con ejemplos prácticos y datasets.
 
