@@ -21,8 +21,11 @@ pip install -r requirements.txt
 ```
 ## Bibliografía
 R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction, 2nd ed. Cambridge, MA, USA: MIT Press, 2018.
+
 Cypher, A., & Halbert, D. C. (Eds.). (1993). Watch what I do: programming by demonstration. MIT press. ISO 690.
-Bain, M. and Sommut, C., 1999. A framework for behavioural claning. Machine In- telligence 15, 15:103. 
+
+Bain, M. and Sommut, C., 1999. A framework for behavioural claning. Machine In- telligence 15, 15:103.
+
 Schaal, S. Learning from demonstration. In Advances in neural information processing systems, pages 1040–1046, 1997. 
 S. Russell, "Learning agents for uncertain environments (extended abstract)," Proceedings of the 11th Annual Conference on Computational Learning Theory (COLT'98), Madison, WI, USA, 1998, pp. 101–103. doi: 10.1145/279943.279964.
 Ng, A. Y., & Russell, S. (2000). "Algorithms for inverse reinforcement learning." Proceedings of the Seventeenth International Conference on Machine Learning (ICML), vol. 1, no. 2, p. 2.
