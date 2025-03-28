@@ -19,7 +19,7 @@ Para instalar las dependencias necesarias, ejecuta (si corresponde):
 ```bash
 pip install -r requirements.txt
 ```
-## Bibliografía
+## 📄 Bibliografía
 R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction, 2nd ed. Cambridge, MA, USA: MIT Press, 2018.
 
 Cypher, A., & Halbert, D. C. (Eds.). (1993). Watch what I do: programming by demonstration. MIT press. ISO 690.
