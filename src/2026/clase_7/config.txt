@@ -1,0 +1,9 @@
+entorno		retorno		pasos		n-steps	lr		ent-coef	gamma		λ	norm_adv	rew_sca	log_std
+cartpole	(500)		100-200k	5-16	3e-4 a 2e-3	0.0-0.01	0.99
+acrobot		(-100, -80) 			8-32	3e-4 a 7e-4	0.01 (ini)	0.99-0.999	0.9-1.0
+lunalander	(200)		1M-2M		5-32	3e-4 a 7e-4	0.0-0.01	0.99-0.999		si
+pendulum	(-200)		500k-1M		8-32	3e-4 a 7e-4			0.9-0.95				0.1	-0.5-0
+hopper						16-32	3e-4 a 7e-4	0.0		0.99						-0.5-0
+halfcheeta			1M		8-16	3e-4 a 7e-4			0.99						-0.5-1
+walker2d			1M-2M		16-32	2e-4 a 5e-4
+bipedalwalker	(300)		3M-5M		8-32	3e-4 a 7e-4	0.0		0.99						0.1-0.5
